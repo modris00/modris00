@@ -15,40 +15,29 @@
 
 ## Skills
 ### Languages:
-
-[<img align="left" alt="HTML5" title="HTML5" height="20px" src="https://img.shields.io/badge/HTML5%20-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white" />][youtube]
-[<img align="left" alt="CSS3" title="CSS3" height="20px" src="https://img.shields.io/badge/CSS3%20-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" />][youtube]
-[<img align="left" alt="JavaScript" title="JavaScript" height="20px" src="https://img.shields.io/badge/JavaScript%20-323330.svg?&style=flat-square&logo=javascript&logoColor=white" />][youtube]
-[<img align="left" alt="PHP" title="PHP" height="20px" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white" />][youtube]
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
 <br />
 
 ### Frontend:
-[<img align="left" alt="Angular" title="Angular" height="20px" src="https://img.shields.io/badge/Angular%20-DD0031.svg?&style=flat-square&logo=angular&logoColor=white" />]
-
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue)](https://skillicons.dev)
 
 <br />
 
 ### Backend:
-[<img align="left" alt="WordPress" title="WordPress" height="45px" src="icons/wordpress.svg" />][youtube]
-[<img align="left" alt="PHP" title="PHP" height="35px" src="icons/php.svg" />][youtube]
-[![My Skills](https://skillicons.dev/icons?i=laravel,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress)](https://skillicons.dev)
 
 <br />
 <br />
 
 ### Database:
-[<img align="left" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="45px" src="icons/sqlserver.svg" />][youtube]
-[<img align="left" alt="MySQL" title="MySQL" height="35px" src="icons/mysql.svg" />][youtube]
-[<img align="left" alt="PostgreSQL" title="PostgreSQL" height="40px" src="icons/postgresql.svg" />][youtube]
-[<img align="left" alt="MongoDB" title="MongoDB" height="30px" src="icons/mongodb.svg" />][youtube]
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 <br />
 <br />
 
 ### Tools:
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)]()
 [<img align="left" alt="Visual Studio Code" title="Visual Studio Code" height="45px" src="icons/vscode.svg" />][youtube]
 [<img align="left" alt="Visual Studio" title="Visual Studio" height="45px" src="icons/visualstudio.svg" />][youtube]
 [<img align="left" alt="Docker" title="Docker" height="45px" src="icons/docker.png" />][youtube]
