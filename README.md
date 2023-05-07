@@ -11,7 +11,6 @@
 - 📫 Contact via Email: mohd.ris.2000@gmail.com
 
 <br />
-<br />
 
 ## Skills
 ### Languages:
