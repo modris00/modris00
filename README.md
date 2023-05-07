@@ -14,22 +14,22 @@
 
 ## Skills
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)]()
 
 <br />
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue)]
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue)]()
 
 <br />
 
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress)]
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress)]()
 
 <br />
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)]
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)]()
 
 <br />
 
