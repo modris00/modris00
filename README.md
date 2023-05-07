@@ -34,6 +34,6 @@
 <br />
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)]()
 
 
