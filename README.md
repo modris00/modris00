@@ -29,7 +29,7 @@
 <br />
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://www.mysql.com/)
 
 <br />
 
