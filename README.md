@@ -14,26 +14,26 @@
 
 ## Skills
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)]
 
 <br />
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue)]
 
 <br />
 
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress)]
 
 <br />
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)]
 
 <br />
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)
 
 
