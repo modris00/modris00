@@ -1,39 +1,36 @@
 # Mohamad Risha
 
-## Full-Stack Web Developer
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Full-Stack+Web+Developer;Consultant;Mentor;Trainer)][coddict] -->
+## Full-Stack Web Developer (Learning & Growing)
 
-<!-- [![LinkedIn Profile](https://img.shields.io/badge/FADIHANIA-Profile-0077b5?style=for-the-badge&logo=linkedin)][linkedin] -->
+- 👋 Hi, I’m Mohamad Risha  
+- 🎓 I study at UCAS  
+- 🌱 Currently learning React, Next.js, and building projects with AI coding agents  
+- 💻 I have foundational experience in Laravel, MySQL, and Vue.js from college coursework  
+- 📫 Contact me: momomohamad0@gmail.com  
 
-- 👋 Hi, I’m Mohamad Risha
-- 👀 I Study in UCAS
-- 🌱 Full stack web developer under training.
-- 📫 Contact via Email: mohd.ris.2000@gmail.com
-
-<br />
+---
 
 ## Skills
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)]()
 
-<br />
+### Core Web Technologies
+![Skills](https://skillicons.dev/icons?i=html,css,js)
 
-### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,vue)]()
+---
 
-<br />
+### Currently Learning
+![Skills](https://skillicons.dev/icons?i=react,nextjs)
 
-### Backend:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress)]()
+---
 
-<br />
+### Frameworks (Basic Experience)
+![Skills](https://skillicons.dev/icons?i=laravel,vue)
 
-### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://www.mysql.com/)
+---
 
-<br />
+### Backend & Database (Academic Experience)
+![Skills](https://skillicons.dev/icons?i=php,mysql)
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)]()
+---
 
-
+### Tools
+![Skills](https://skillicons.dev/icons?i=vscode,git,github)
